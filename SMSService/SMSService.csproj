@@ -51,5 +51,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="滑块验证码\css\drag.css" />
+    <Content Include="滑块验证码\index.html" />
+    <Content Include="滑块验证码\js\drag.js" />
+    <Content Include="滑块验证码\js\jquery-1.7.2.min.js" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
